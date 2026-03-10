@@ -52,10 +52,7 @@ Theme-Engine is usually made for modification & customization, so you can make t
 
 ## Maintainer
 
-This [Theme-Engine](https://github.com/imegeek/theme-engine) is maintained by the following person.
-
-
-| ![IM GEEK](https://avatars.githubusercontent.com/u/63346676?v=4) |
+(https://avatars.githubusercontent.com/u/63346676?v=4) |
 | ----------------------------------------------------------------------------------------------------- |
 | <p align="center"> [IM GEEK](https://github.com/imegeek)                                                   |</p>
 
