@@ -50,14 +50,7 @@ Theme-Engine is usually made for modification & customization, so you can make t
 
 ![Theme-Engine-Disable-Theme](https://github.com/imegeek/Theme-Engine/assets/63346676/7c331d08-c05f-47df-9567-3a88394044da)
 
-## Maintainer
 
-(https://avatars.githubusercontent.com/u/63346676?v=4) |
-| ----------------------------------------------------------------------------------------------------- |
-| <p align="center"> [IM GEEK](https://github.com/imegeek)                                                   |</p>
-
-
-**Online method to chage color scheme**
 
 Tui Based Program.
 
