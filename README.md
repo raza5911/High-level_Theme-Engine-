@@ -68,9 +68,6 @@ Tui Based Program.
 
 Cli Based Program.
 
-[`bash <(curl -fsSL "https://git.io/tcolors") -c <1-80>`](https://github.com/imegeek/Theme-Engine)
-
-
 > **Installation Methods :**
 
 | Method    | Command                                                                                           |
